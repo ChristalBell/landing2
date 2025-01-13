@@ -9,19 +9,19 @@ const cardDetail = [
     number: 1,
     title: "Actionable Insights",
     description:
-      "Optimize your products, improve customer satisfaction and stay ahead of the competition with our product data analytics. ",
+      "Optimize your products, improve customer satisfaction and stay ahead of the competition with our product data analytics.",
   },
   {
     number: 2,
-    title: "Actionable Insights",
+    title: "Data-Driven Decisions",
     description:
-      "Optimize your products, improve customer satisfaction and stay ahead of the competition with our product data analytics. ",
+      "Make data-driven decisions with our product data analytics. Our AI-generated reports help you unlock insights hidden in your product data.",
   },
   {
     number: 3,
-    title: "Actionable Insights",
+    title: "Always Affordable",
     description:
-      "Optimize your products, improve customer satisfaction and stay ahead of the competition with our product data analytics. ",
+      "Always affordable pricing that scales with your business. Get top-quality product data analytics services without hidden costs or unexpected fees.",
   },
 ];
 const Value = () => {
@@ -35,7 +35,7 @@ const Value = () => {
         border: "solid 1px #FFF",
         borderColor: "transparent transparent #FFF transparent",
         borderRadius: "60%/75px 75px 0 0",
-        transform: "rotateX(180deg) translateY(10vh)",
+        transform: "rotateX(180deg) ",
         overflow: "hidden",
         zIndex: 1,
       }}
