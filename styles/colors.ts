@@ -3,4 +3,5 @@ export const COLORS = {
   lightPurple: "#584D62",
   white: "#FFFFFF",
   green: "#44FFA1",
+  extraLightPurple: "#FCF8FF",
 };
