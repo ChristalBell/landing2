@@ -35,14 +35,14 @@ const Value = () => {
         border: "solid 1px #FFF",
         borderColor: "transparent transparent #FFF transparent",
         borderRadius: "60%/75px 75px 0 0",
-        transform: "rotateX(180deg) ",
+        transform: "rotateX(180deg) translateY(10vh)",
         overflow: "hidden",
         zIndex: 1,
       }}
     >
       <Container
         sx={{
-          transform: "rotateX(180deg)",
+          transform: "rotateX(180deg) ",
           display: "flex",
 
           alignItems: "center",

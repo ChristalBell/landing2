@@ -17,7 +17,8 @@ const Hero = () => {
         borderRadius: "60%/75px 75px 0 0",
         transform: "rotateX(180deg)",
         overflow: "hidden",
-        zIndex: 5,
+        position: "relative",
+        zIndex: 100,
       }}
     >
       <Container
